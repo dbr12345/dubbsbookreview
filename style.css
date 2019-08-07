@@ -4,7 +4,7 @@ body{
 
 #body{
     width:600;
-    height:110%;
+    height:130%;
     text-align: center;
     background-image: url("bg.png");
     border: 10px outset darkred ;
@@ -24,4 +24,8 @@ fieldset{
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+  }
+
+  #sidebar{
+      float: left;
   }
